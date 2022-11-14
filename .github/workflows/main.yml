@@ -18,11 +18,9 @@ jobs:
         
         
         steps:
-              - name: 'Testing Gethub'
               
-                run: pwd
-              - name: 'testing printing'
-                run: echo Ahmed
+              - name: ' printing folder content'
+                run: ls 
    
         
                 
